@@ -1,0 +1,21 @@
+<svg width="166" height="40" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_2_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="42" width="168" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-style="normal" font-weight="normal" filter="url(#svg_2_blur)" stroke="#000" transform="matrix(1.296964470311593,0,0,1.2142083006089506,-0.9351468443944528,11.110869542657037) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="29" id="svg_2" y="17.39937" x="6.437217" stroke-width="0" fill="#000000">X导航</text>
+  <text font-style="normal" font-weight="normal" stroke="#000" transform="matrix(2.5791526111867773,0,0,0.4913676214532998,-199.95156323140282,0.9662779836840825) " xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="29" id="svg_3" y="29.73291" x="120.207949" fill-opacity="null" stroke-opacity="null" fill="#000000">X</text>
+  <text font-style="italic" font-weight="normal" stroke="#000" transform="matrix(1.1622653878264089,0,0,1.334743895968699,-18.796720099002243,-6.650087580590542) " xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="10" id="svg_4" y="29.65625" x="111.958092" stroke-opacity="null" fill="#f90404">Navigator</text>
+ </g>
+</svg>
