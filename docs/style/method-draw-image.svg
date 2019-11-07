@@ -21,6 +21,6 @@
   </defs>
   <image id="背景" width="166" height="40" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKYAAAAoCAYAAAB0MoHfAAAAhklEQVR4nO3SQQHAQBCEsG39e56zwSOxAN+2HcT8glBkTJKMSZIxSTImScYkyZgkGZMkY5JkTJKMSZIxSTImScYkyZgkGZMkY5JkTJKMSZIxSTImScYkyZgkGZMkY5JkTJKMSZIxSTImScYkyZgkGZMkY5JkTJKMSZIxSTImScYkyZj03N0Ds8QETMj4760AAAAASUVORK5CYII="/>
   <text id="X导航" class="cls-1" transform="translate(2.4 30.578) scale(0.12)">X导航</text>
-  <text id="Navigator" class="cls-2" transform="translate(100.1 33.701) scale(0.425)">Navigator</text>
-  <text id="X" class="cls-3" transform="translate(122.128 22.079) scale(0.891)">X</text>
+  <text id="Navigator" class="cls-2" transform="translate(97.1 33.701) scale(0.425)">Navigator</text>
+  <text id="X" class="cls-3" transform="translate(119.128 22.079) scale(0.891)">X</text>
 </svg>
