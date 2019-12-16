@@ -1,6 +1,6 @@
 @media handheld and (min-width: 20em), screen and (min-width: 20em) {
 body {
-    background-image: url('../src/image/BG.PNG');
+    background-image: url('../src/image/BG.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-color: #fff;

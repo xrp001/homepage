@@ -2,7 +2,7 @@
 
 
 body {
-    background-image:  url('../src/image/BG_PC.PNG');
+    background-image: url('../src/image/BG_PC.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: #FFF;
@@ -12,7 +12,7 @@ body {
 
 .search {
     margin: 5% 0 0 0;
-    width: 100%;
+    width: 100%;PC
 }
 
 .search .logo {
